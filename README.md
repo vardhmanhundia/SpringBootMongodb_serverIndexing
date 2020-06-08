@@ -39,6 +39,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Further Versions
 Please CheckOut the updated versions for this project
-- [SwaggUI documentation](https://github.com/vardhmanhundia/Swaggi_ServerIndex)
-- [Server Index Dockerized](https://github.com/vardhmanhundia/ServerIndex_Dockerized)
-- [Server_Index React App](https://github.com/vardhmanhundia/ServerIndexing_ReactApp)
+- [SwaggUI documentation](https://github.com/vardhmanhundia/SwaggUI_ServerIndexing)
+- [Server Index Dockerized](https://github.com/vardhmanhundia/ServerIndexing_Dockerized)
+- [Server_Index React App](https://github.com/vardhmanhundia/serverIndex_ReactApplication)
