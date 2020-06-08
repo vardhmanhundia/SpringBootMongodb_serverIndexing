@@ -30,9 +30,12 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 7. Create a database name **ServerDB** using mongoDB cli or [MongoDB Compass Community](https://www.mongodb.com/products/compass)
 8. Run the Spring Boot Server and you would get output as below
-![ServerRunning](../assets/serverRunning.png?raw=true)
+
+![ServerRunning](https://github.com/vardhmanhundia/SpringBootMongodb_serverIndexing/blob/master/images/serverRunning.PNG)
+
 9. Test the REST APIs using [Postman](https://www.postman.com/downloads/). I have provided an API Collection for all the operations for postman with [Operations](https://www.getpostman.com/collections/bd2d2e8e643ef98aaf35)
-![Postman Request Example](../assets/postmanRequest.png?raw=true)
+
+![Postman Request Example](https://github.com/vardhmanhundia/SpringBootMongodb_serverIndexing/blob/master/images/postmanRequest.PNG)
 
 ## Further Versions
 Please CheckOut the updated versions for this project
