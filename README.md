@@ -30,6 +30,12 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 7. Create a database name **ServerDB** using mongoDB cli or [MongoDB Compass Community](https://www.mongodb.com/products/compass)
 8. Run the Spring Boot Server and you would get output as below
-![ServerRunning](/images/serverRunning.png)
+![ServerRunning](../assets/serverRunning.png?raw=true)
 9. Test the REST APIs using [Postman](https://www.postman.com/downloads/). I have provided an API Collection for all the operations for postman with [Operations](https://www.getpostman.com/collections/bd2d2e8e643ef98aaf35)
-![Postman Request Example](/images/postmanRequest.png)
+![Postman Request Example](../assets/postmanRequest.png?raw=true)
+
+## Further Versions
+Please CheckOut the updated versions for this project
+- [SwaggUI documentation](https://github.com/vardhmanhundia/Swaggi_ServerIndex)
+- [Server Index Dockerized](https://github.com/vardhmanhundia/ServerIndex_Dockerized)
+- [Server_Index React App](https://github.com/vardhmanhundia/ServerIndexing_ReactApp)
